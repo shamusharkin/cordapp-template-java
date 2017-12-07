@@ -9,6 +9,7 @@ Java command line for querying cords nodes:
 start IOUFlow arg0: 99, arg1: "O=PartyB,L=New York,C=US"     
 run vaultQuery contractStateType: com.template.IOUState
 
+delete this line
 ============================================================
 
 Welcome to the CorDapp template. The CorDapp template is a stubbed-out CorDapp 
