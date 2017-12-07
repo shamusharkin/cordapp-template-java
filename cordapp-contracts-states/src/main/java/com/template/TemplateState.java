@@ -13,3 +13,4 @@ public class TemplateState implements ContractState {
     /** The public keys of the involved parties. */
     @Override public List<AbstractParty> getParticipants() { return Collections.emptyList(); }
 }
+
