@@ -2,6 +2,15 @@
 
 # CorDapp Template
 
+Pushed to Pubic github - shamus harkin:
+
+Java command line for querying cords nodes: 
+
+start IOUFlow arg0: 99, arg1: "O=PartyB,L=New York,C=US"     
+run vaultQuery contractStateType: com.template.IOUState
+
+============================================================
+
 Welcome to the CorDapp template. The CorDapp template is a stubbed-out CorDapp 
 which you can use to bootstrap your own CorDapp projects.
 
